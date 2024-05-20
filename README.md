@@ -3,18 +3,19 @@
 This is the code for the paper of An integrated scheduling framework based on deep reinforcement learning for multi-variety and small-batch flexible job shop scheduling with Pytorch.
 
 ## Requirements:
-<li>CUDA 11.4</li>
-<li>Python 3.6</li>
-<li>PyTorch 1.0</li>
-<li>visdom</li>
-<li>numpy</li>
-<li>pandas</li>
-</ul>
-
+```
+Python==3.6.13
+CUDA==11.1
+Pytorch==1.10.0
+Numpy=1.19.5
+Conda==4.10.3
+```
 ## Tips:
-
-
-
+```
+environment: the python-based discretation simulation environment of workshop scheduling
+data: the data of public dataset
+DDQN: the code of main program
+```
 ## Citation
 ```
 @article{ding2024multi,
