@@ -18,6 +18,7 @@ DDQN: the code of main program
 result: save the trained model
 ```
 ## Citation
+If these code help you, please cite us paper:
 ```
 @article{ding2024multi,
   title={Multi-policy deep reinforcement learning for multi-objective multiplicity flexible job shop scheduling},
