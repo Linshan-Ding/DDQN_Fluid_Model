@@ -5,7 +5,7 @@ This is the code for the paper of An integrated scheduling framework based on de
 ## Requirements:
 ```
 Python==3.6.13
-CUDA==11.1
+CUDA==10.2.89
 Pytorch==1.10.0
 Numpy=1.19.5
 Conda==4.10.3
@@ -15,6 +15,7 @@ Conda==4.10.3
 environment: the python-based discretation simulation environment of workshop scheduling
 data: the data of public dataset
 DDQN: the code of main program
+result: save the trained model
 ```
 ## Citation
 ```
