@@ -1,7 +1,5 @@
-matplotlib==3.6.2
-numpy==1.24.4
-scikit_learn==1.1.3
-setuptools==65.5.0
-sympy==1.11.1
-torch==2.2.2
-tqdm==4.66.2
+Python==3.6.13
+CUDA==10.2.89
+Pytorch==1.10.0
+Numpy=1.19.5
+Conda==4.10.3
