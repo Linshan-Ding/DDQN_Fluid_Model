@@ -1,0 +1,5 @@
+Python==3.6.13
+CUDA==10.2.89
+Pytorch==1.10.0
+Numpy=1.19.5
+Conda==4.10.3
