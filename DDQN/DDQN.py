@@ -134,7 +134,7 @@ class DDQN(Base_Agent, Config):
 
     def save_policy_network(self):
         """保存策略网络"""
-        file_path = 'D:/Python project/DDQN_Fluid_Model/result/'
+        file_path = 'D:/Python project/DDQN_Fluid_Model/results/'
         torch.save(self.q_network_local.state_dict(), file_path + 'ddqn.path')
 
     def step_test(self):
