@@ -1,4 +1,3 @@
-from collections import Counter
 from torch import nn
 import torch
 import random
@@ -12,7 +11,7 @@ from environment.SO_SFJSP import SO_SFJSP_Environment
 from visdom import Visdom
 from utilities.Utility_Class import AddData
 
-# 训练结果数据保存位置
+# 训练结果数据保存位置-------------------
 path_file_name = 'D:/Python project/DDQN_Fluid_Model/results/DDQN_training.csv'
 add_data_object = AddData(path_file_name)
 add_data_object.add_data(['epoch', 'makespan'])
