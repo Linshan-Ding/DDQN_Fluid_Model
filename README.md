@@ -1,6 +1,8 @@
-# DDQN_Fluid_Model: An integrated scheduling framework based on deep reinforcement learning for multi-variety and small-batch flexible job shop scheduling
+# DDQN_Fluid_Model
 
-This is the code for the paper of An integrated scheduling framework based on deep reinforcement learning for multi-variety and small-batch flexible job shop scheduling with Pytorch.
+This is the code for the paper：
+
+**Data-driven integrated scheduling framework based on deep reinforcement learning and fluid model for multi-variety and small-batch flexible job shop scheduling**
 
 ## Requirements:
 ```
@@ -31,5 +33,9 @@ If these code help you, please cite us paper:
 }
 ```
 ## contact
-If you have any questions,  feel free to contact linshan_ding@hust.edu.cn
+If you have any questions,  feel free to contact：
+
+Email1: linshan_ding@hust.edu.cn
+
+Email2: linshandingzz@gmail.com
 
