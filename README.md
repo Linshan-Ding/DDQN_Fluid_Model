@@ -2,7 +2,7 @@
 
 This is the code for the paper：
 
-**A Data-driven Integrated Scheduling Framework Combining Deep Reinforcement Learning and Fluid Models for Multi-variety Small-batch Flexible Job Shop Scheduling**
+**Data-Driven Deep Reinforcement Learning Framework for Multi-Variety and Small-Batch Flexible Job Shop Scheduling: Integrating Fluid Models for Enhanced Optimization**
 
 ## Requirements:
 ```
